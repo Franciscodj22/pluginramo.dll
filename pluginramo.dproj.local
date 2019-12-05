@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/08/02 19:48:05.000.400,=C:\Users\Franciscodj22\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/02 20:13:32.000.541,C:\Users\Franciscodj22\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Franciscodj22\Documents\Embarcadero\Studio\Projects\pluginramo.dproj</Transaction>
+    <Transaction>2019/08/03 09:44:32.000.108,C:\Users\Franciscodj22\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Franciscodj22\Documents\PluginDLL\uConecta.pas</Transaction>
+    <Transaction>2019/08/03 09:44:32.000.117,C:\Users\Franciscodj22\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Franciscodj22\Documents\PluginDLL\uConecta.dfm</Transaction>
+    <Transaction>2019/08/03 09:44:50.000.182,C:\Users\Franciscodj22\Documents\Embarcadero\Studio\Projects\pluginramo.dproj=C:\Users\Franciscodj22\Documents\PluginDLL\pluginramo.dproj</Transaction>
+    <Transaction>2019/08/15 16:59:11.000.435,=C:\Users\Franciscodj22\Documents\PluginDLL\Unit1.pas</Transaction>
+    <Transaction>2019/08/15 17:00:09.000.135,C:\Users\Franciscodj22\Documents\PluginDLL\Unit1.pas=C:\Users\Franciscodj22\Documents\PluginDLL\uDialogo.pas</Transaction>
+    <Transaction>2019/08/15 17:00:09.000.135,C:\Users\Franciscodj22\Documents\PluginDLL\Unit1.dfm=C:\Users\Franciscodj22\Documents\PluginDLL\uDialogo.dfm</Transaction>
+    <Transaction>2019/08/15 18:36:40.000.081,=C:\Users\Franciscodj22\Documents\PluginDLL\Unit1.pas</Transaction>
+    <Transaction>2019/08/15 18:38:05.000.182,C:\Users\Franciscodj22\Documents\PluginDLL\uAjustes.pas=C:\Users\Franciscodj22\Documents\PluginDLL\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
